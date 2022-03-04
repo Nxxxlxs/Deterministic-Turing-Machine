@@ -44,4 +44,4 @@ python TM_Simulator.py argumento1 argumento2
 
 ## :closed_lock_with_key: Licença
 
-Este projeto está sob a licença do MIT. Consulte a [LICENÇA](./License.md) para obter mais informações.
+Este projeto está sob a licença do MIT. Consulte a [LICENÇA](./LICENSE) para obter mais informações.
